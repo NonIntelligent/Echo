@@ -9,5 +9,7 @@
 
 // add headers that you want to pre-compile here
 #include "framework.h"
+// all SIMD intrinsics
+#include <immintrin.h>
 
 #endif //PCH_H
